@@ -14,4 +14,4 @@ Or refer to the demo video listed below
 
 # Youtube Videos
 
-Youtube Playlisy : https://www.youtube.com/watch?v=G2vfT9cFENQ&list=PLU6Jd5r98RCnwTpGjREBhAtASx6Cem_EZ
+Youtube Playlist : https://www.youtube.com/watch?v=G2vfT9cFENQ&list=PLU6Jd5r98RCnwTpGjREBhAtASx6Cem_EZ
